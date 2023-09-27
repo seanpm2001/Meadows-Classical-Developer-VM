@@ -1,0 +1,6 @@
+profile-name: "DWave 2000"
+model: /config/DWAVE/2000/MODEL.qasm
+qbits-max: 1000
+qbits-min: 32
+# This file is highly incomplete
+# File version: 1 (2023, Wednesday, September 27th at 4:29 pm PST)
