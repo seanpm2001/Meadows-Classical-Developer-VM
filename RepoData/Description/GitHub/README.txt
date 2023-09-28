@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+🔳️🔲️💾️ The official source repository for the Meadows Classical Developer virtual machine, a tool that enables Meadows to be emulated on a classical computer, instead of a Quantum Computer.
